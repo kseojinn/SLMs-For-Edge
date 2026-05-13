@@ -1,4 +1,4 @@
-# SLMs For Edge Devices
+# SFED: SLMs For Edge Devices
 - Edge Devices used: Jetson Orin Nano Super (NVIDIA), Raspberry Pi5
 - The goal of this project is to experiment with hardware bottlenecks and quantization efficiency when deploying Small Language Models (SLMs) in resource-constrained edge computing environments.
 
